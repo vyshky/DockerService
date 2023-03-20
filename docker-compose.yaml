@@ -1,0 +1,8 @@
+version: "3.9"
+
+services: 
+  order_service:
+    build: ./
+    container_name: order_service
+    ports:
+      - 5000:80

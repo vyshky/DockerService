@@ -1,0 +1,14 @@
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\OrdersApiAppSPD011.exe
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\OrdersApiAppSPD011.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\OrdersApiAppSPD011.runtimeconfig.json
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\OrdersApiAppSPD011.pdb
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\vyshk\Desktop\Cloud\Выполнено\DockerService\app\obj\Release\net7.0\PubTmp\Out\OrdersApiAppSPD011.deps.json
